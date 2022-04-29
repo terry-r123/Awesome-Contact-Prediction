@@ -16,9 +16,11 @@ A curated list of **Contact Prediction** and related area.
 #### Bioinformatics 2022
 - ProteinBERT: A universal deep-learning model of protein sequence and function. [[paper]](https://watermark.silverchair.com/btac020.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAy0wggMpBgkqhkiG9w0BBwagggMaMIIDFgIBADCCAw8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMZdqHcsS6IhA-lncPAgEQgIIC4JDsSqO3DG9TaG9QgH4DR53nVr2u8XAjV6verf3mjMZsJwGtQBfhscQhT6x4iAiCCqJIyEVpkdppJ0Up4s9C8HBMOkCbzlNvhotBG46yNdzSwVKbHGQ5vpWiefg8nSAz7JydT6vtNV4mvxS3njMkWgb_uzIXCRF9KiMqlmLeU8VpZ18wqOCI9ttqzYh6I_nyDnurrj6RuGwb28c8oVNFF14BRUT7T41Te2eGga6aLvSionWy26kwYXSg7liNHkXdWZoTgYI5Zwo5Ogarries-GZo9cqDjsvX9YZhYvUagyIonBseVofkmmsfvNs4oXDVI8m8h3xPN4xNireXOfLLVdW3XDF2X8nQnGdIExN6jEjtoiCp3e6meuF3XbDpVorU2YzW56pBNnGMAQvEvhxqK2FJy6E-oC_pRhUtXX6YBlQ0XPJkWT2ofs-x3QAQEGSJNMGCgn4A--8iw1f6aFfA47EjtqjNENkzoe8n3G4UncKSvNEprN1UzU-XjeiLTsyDMJ554mNiYV8rSk7lkxDe1VEwDNGy7nBE7ElIWAZZCvNvhHCGg191ljvxK2kfAbwwpRgP4NxrSrnXw9D7EReeyR_oqhQWNVNi-9-9YBi7NzgdNWjTDOGWNpGvpzsdk7f8l-BQND1H4xIiSpVyamHeL2D_J__0juABIguKEhJhLpJuFwpk4co6ZORmcxtx7KnwFeTmcLP_LdEKNLvgKHODL9qqmbCWlV5sj3WFdD9u3SgFD2BhWpNjCVwWTPeEu4RffSNh7O-d9Io8o9kiQ4Ivf9CNZjuFnAgnlNT6FMzAaG8e9wZt8IQvZbNkKlukWXSbdN81rc0vSyQqJTKkQM9iL99O1MlZ19PaJTV52_vmcVCJ0xE4HS7NyrFcFD1N4q_Vn3Zjtj_JAaKtY5oCjuS-Mt3Juidq5Jt6-K1j5F_3orZwd9MAtTzulZMIMYc0TZFs1Bgk28iiYaSGphf4aZfCksA)
  [[code]](https://github.com/nadavbra/protein_bert) train
+#### Briefings in Bioinformatics 2022  
+- Accurate protein function prediction via graph attention networks with predicted structure information. [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.16.448727v1.full.pdf)
 #### ICLR 2022
 - OntoProtein: Protein Pretraining With Gene Ontology Embedding. [[paper]](https://arxiv.org/pdf/2201.11147.pdf) [[code]](https://github.com/zjunlp/OntoProtein) train
-
+- Geometric Transformers for Protein Interface Contact Prediction. [[paper]](https://arxiv.org/pdf/2110.02423.pdf) [[code]](https://github.com/BioinfoMachineLearning/DeepInteract) (multimer)
 
 ### 2021
 #### Cell Systems 2021
@@ -26,12 +28,13 @@ A curated list of **Contact Prediction** and related area.
 #### Nature 2021
 - DNCON2_Inter: predicting interchain contacts for homodimeric and homomultimeric protein complexes using multiple sequence alignments of monomers and deep learning. [[paper]](https://www.nature.com/articles/s41598-021-91827-7.pdf?origin=ppub) [[code]](https://github.com/jianlin-cheng/DNCON2_Inter)
 #### BIBM 2021
-- Inter-protein contact map generated only from intra-monomer by image inpainting. [[paper]](https://ieeexplore.ieee.org/document/9669709) [[code]](https://github.com/huangh0408/protein-dimer-inpainting)
+- Inter-protein contact map generated only from intra-monomer by image inpainting. [[paper]](https://ieeexplore.ieee.org/document/9669709) [[code]](https://github.com/huangh0408/protein-dimer-inpainting) (multimer)
 #### Proteins: Structure, Function, and Bioinformatics 2021
 - When homologous sequences meet structural decoys: Accurate contact prediction by tFold in CASP14—(tFold for CASP14 contact prediction). [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.26232)
 #### Bioinformatics 2021
-- Deep graph learning of inter-protein contacts. [[paper]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab761/6424887) [[code]](https://github.com/zw2x/glinter)
+- Deep graph learning of inter-protein contacts. [[paper]](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btab761/6424887) [[code]](https://github.com/zw2x/glinter) (multimer)
 - A deep dilated convolutional residual network for predicting interchain contacts of protein homodimers. [[paper]](https://www.biorxiv.org/content/10.1101/2021.09.19.460941v1.full.pdf) [[code]](https://github.com/jianlin-cheng/DRCon)
+- SPOT-Contact-Single: Improving Single-Sequence-Based Prediction of Protein Contact Map using a Transformer Language Model, Large Training Set and Ensembled Deep Learning. [[paper]](https://www.biorxiv.org/content/10.1101/2021.06.19.449089v1.full.pdf)
 #### Briefings in Bioinformatics 2021
 - Accurate prediction of inter-protein residue–residue contacts for homo-oligomeric protein complexes. [[paper]](https://academic.oup.com/bib/article/22/5/bbab038/6159364?login=true)
 
@@ -64,6 +67,6 @@ A curated list of **Contact Prediction** and related area.
 
 ### 2018
 #### Nucleic Acids Res 2018
-- ComplexContact: a web server for inter-protein contact prediction using deep learning. [[paper]](https://repository.kaust.edu.sa/bitstream/handle/10754/627970/gky420.pdf?sequence=1)
+- ComplexContact: a web server for inter-protein contact prediction using deep learning. [[paper]](https://repository.kaust.edu.sa/bitstream/handle/10754/627970/gky420.pdf?sequence=1) (multimer)
 
 [comment]: <> (https://github.com/Yijia-Xiao/Undergrad-protein-pretrain)
