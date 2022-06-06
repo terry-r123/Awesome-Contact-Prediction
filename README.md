@@ -54,14 +54,17 @@ A curated list of **Contact Prediction** and related area.
 - Transformer protein language models are unsupervised structure learners. [[paper]](https://www.biorxiv.org/content/10.1101/2020.12.15.422761v1.full.pdf)
 - BERTology Meets Biology: Interpreting Attention in Protein Language Models. [[paper]](https://arxiv.org/pdf/2006.15222.pdf) [[code]](https://github.com/salesforce/provis)
 
-
+#### arxiv 2021
+- Pre-training Co-evolutionary Protein Representation via A Pairwise Masked Language Model. [[paper]](https://arxiv.org/pdf/2110.15527.pdf)
 ### 2020
 #### PANS 2020
 - Improved protein structure prediction using predicted interresidue orientations. [[paper]](https://www.pnas.org/doi/10.1073/pnas.1914677117)
-
+#### KDD 2020
+- Deep Learning of High-Order Interactions for Protein Interface Prediction. [[paper]](https://arxiv.org/pdf/2007.09334.pdf)
 ### 2019
 #### NIPS 2019
 - Evaluating Protein Transfer Learning with TAPE. [[paper]](https://arxiv.org/pdf/1906.08230.pdf) [[code]](https://github.com/songlab-cal/tape)
+- Generative Models for Graph-Based Protein Design. [[paper]](https://papers.nips.cc/paper/2019/file/f3a4ff4839c56a5f460c88cce3666a2b-Paper.pdf) [[code]](https://github.com/jingraham/neurips19-graph-protein-design)
 #### ICLR 2019
 - Learning protein sequence embeddings using information from structure. [[paper]](https://arxiv.org/pdf/1902.08661.pdf) [[code]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)
 
