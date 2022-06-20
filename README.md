@@ -65,6 +65,7 @@ A curated list of **Contact Prediction** and related area.
 #### NIPS 2019
 - Evaluating Protein Transfer Learning with TAPE. [[paper]](https://arxiv.org/pdf/1906.08230.pdf) [[code]](https://github.com/songlab-cal/tape)
 - Generative Models for Graph-Based Protein Design. [[paper]](https://papers.nips.cc/paper/2019/file/f3a4ff4839c56a5f460c88cce3666a2b-Paper.pdf) [[code]](https://github.com/jingraham/neurips19-graph-protein-design)
+- End-to-End Learning on 3D Protein Structure for Interface Prediction. [[paper]](https://arxiv.org/pdf/1807.01297.pdf) [[code]](https://github.com/drorlab/DIPS)
 #### ICLR 2019
 - Learning protein sequence embeddings using information from structure. [[paper]](https://arxiv.org/pdf/1902.08661.pdf) [[code]](https://github.com/tbepler/protein-sequence-embedding-iclr2019)
 
@@ -72,4 +73,7 @@ A curated list of **Contact Prediction** and related area.
 #### Nucleic Acids Res 2018
 - ComplexContact: a web server for inter-protein contact prediction using deep learning. [[paper]](https://repository.kaust.edu.sa/bitstream/handle/10754/627970/gky420.pdf?sequence=1) (multimer)
 
+### 2017
+#### NIPS 2017
+- Protein Interface Prediction using Graph Convolutional Networks. [[paper]](https://proceedings.neurips.cc/paper/2017/file/f507783927f2ec2737ba40afbd17efb5-Paper.pdf) [[code]](https://github.com/fouticus/pipgcn)
 [comment]: <> (https://github.com/Yijia-Xiao/Undergrad-protein-pretrain)
